@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(curl:*)",
+      "Bash(claude mcp:*)",
+      "mcp__stitch__get_screen",
+      "Bash(npm run:*)",
+      "Bash(cp src/app/page.tsx \"src/app/\\(main\\)/page.tsx\" && cp -r src/app/products \"src/app/\\(main\\)/products\" && cp -r src/app/about \"src/app/\\(main\\)/about\" && cp -r src/app/contact \"src/app/\\(main\\)/contact\" && cp -r src/app/cart \"src/app/\\(main\\)/cart\")",
+      "Bash(ls /Users/hammadahmed/Desktop/faizaamjad/src/app/ && ls \"/Users/hammadahmed/Desktop/faizaamjad/src/app/\\(main\\)/\")"
+    ]
+  }
+}
