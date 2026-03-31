@@ -1,4 +1,4 @@
-import img1 from "@/images/978961ea-3ace-492a-b6d8-e80ebf33bd01.jpg";
+import img1 from "@/images/Hero.jpg";
 import img2 from "@/images/Exclusive_Eastern_Lawn_Suit_Collection_2025_with_Embroidery_and_Dupatta.webp";
 
 export default function EmbroideryFeature() {

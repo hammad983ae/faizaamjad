@@ -1,4 +1,4 @@
-import heroBg from "@/images/passu-eastern-collection-image.webp";
+import heroBg from "@/images/Hero.jpg";
 import Link from "next/link";
 
 export default function Hero() {
